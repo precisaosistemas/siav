@@ -2,12 +2,12 @@
 
 [Update]
 Name = SIAV
-ProductVersion = 1.67.2
-URL = https://github.com/precisaosistemas/siav/releases/download/v1.67.2/siav-1.67.2.exe
-Size = 16684408
-MD5 = 0882da1f6bdb5430c6e7f67715a07e5b
+ProductVersion = 1.67.3
+URL = https://github.com/precisaosistemas/siav/releases/download/v1.67.3/siav-1.67.3.exe
+Size = 16690416
+MD5 = 83762a403918c122a20a49c3da1cbbe7
 CommandLine = /exenoui /qn
-ServerFileName = siav-1.67.2.exe
+ServerFileName = siav-1.67.3.exe
 Flags = SilentInstall|NoRedetect
 RegistryKey = HKUD\Software\Precisao Sistemas\SIAV\Version
-Version = 1.67.2
+Version = 1.67.3
